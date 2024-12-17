@@ -1,4 +1,4 @@
-# roadmap.sh-projects
+# roadmap.sh-cv-project
 
 starting dec '24
 aims are to accomplish the following maps:
