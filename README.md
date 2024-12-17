@@ -1,5 +1,7 @@
 # roadmap.sh-cv-project
 
+x cv: https://roadmap.sh/projects/single-page-cv
+
 starting dec '24
 aims are to accomplish the following maps:
 
