@@ -2,6 +2,8 @@
 
 x cv: https://roadmap.sh/projects/single-page-cv
 
+x html site: https://roadmap.sh/projects/basic-html-website
+
 starting dec '24
 aims are to accomplish the following maps:
 
